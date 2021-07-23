@@ -11,9 +11,12 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
+### 💻IDEs
+  [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
+  ![Intellij](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
 - 💻 Programmer of HTML, CSS, JavaScript
 - 🌱 I’m currently learning Java
-
 
 <a href="https://chicho.wtf">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gastxn&title_color=ff8d00&text_color=c9cacc&icon_color=2bbc8a&bg_color=202020"/>
