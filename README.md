@@ -19,7 +19,7 @@
   
  ### Contact
   [![Email](https://img.shields.io/badge/Email-gastondalla@gmail.com-04619f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gastondalla@gmail.com)
-  [![Discord](https://img.shields.io/badge/Discord-Chicho1337%23-5865F2?style=for-the-badge&logo=discord&logoColor=white)]
+  ![Discord](https://img.shields.io/badge/Discord-Chicho%231337-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 <a href="https://chicho.wtf">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gastxn&title_color=ff8d00&text_color=c9cacc&icon_color=2bbc8a&bg_color=202020"/>
