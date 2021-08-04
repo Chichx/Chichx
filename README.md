@@ -15,7 +15,11 @@
 
 ### 💻IDEs
   [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
-  ![Intellij](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+  [![Intellij](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+### Contact
+  [![Email](https://img.shields.io/badge/Email-gastondalla@gmail.com-04619f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gastondalla@gmail.com)
+  [![Discord](https://img.shields.io/badge/Discord-Chicho#1337%230001-5865F2?style=for-the-badge&logo=discord&logoColor=white)]
 
 <a href="https://chicho.wtf">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gastxn&title_color=ff8d00&text_color=c9cacc&icon_color=2bbc8a&bg_color=202020"/>
