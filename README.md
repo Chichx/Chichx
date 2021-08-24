@@ -1,6 +1,10 @@
 <div align="center">
 
 ### Hey there, I'm [Gaston!](https://chicho.wtf) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+  
+<p align="center">
+  <img src="https://discord.c99.nl/widget/theme-4/852683595378196480.png" />
+</p>
 
 ### 👨‍💻Programming Languages
   [![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com)
