@@ -29,7 +29,7 @@
 </a>
 
 <a href="https://chicho.wtf">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gastxn&show_icons=true&line_height=27&count_private=true&title_color=ff8d00&text_color=c9cacc&icon_color=2bbc8a&bg_color=202020"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gastxn&show_icons=true&line_height=27&count_private=true&title_color=ff8d00&text_color=c9cacc&icon_color=2bbc8a&bg_color=2020202"/>
 </a>
 <br/>
 <br/>
