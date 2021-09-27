@@ -25,7 +25,7 @@
 </br>  
   
 <a href="https://chicho.wtf">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gastxn&title_color=ff8d00&text_color=c9cacc&icon_color=2bbc8a&bg_color=202020"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gastxn&title_color=ff8d00&text_color=c9cacc&icon_color=2bbc8a&bg_color=2020202"/>
 </a>
 
 <a href="https://chicho.wtf">
