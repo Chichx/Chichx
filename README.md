@@ -28,13 +28,18 @@
   ![Discord](https://img.shields.io/badge/Discord-Chicho%237585-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 </br>  
   
-<a href="https://chicho.wtf">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gastxn&title_color=ff8d00&text_color=c9cacc&icon_color=2bbc8a&bg_color=202020"/>
-</a>
-
-<a href="https://chicho.wtf">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gastxn&show_icons=true&line_height=27&count_private=true&title_color=ff8d00&text_color=c9cacc&icon_color=2bbc8a&bg_color=202020"/>
-</a>
-<br/>
-<br/>
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=chichx&theme=react&border=ff9c19&hide_border=true" alt="chichx" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=chichx&show_icons=true&theme=react&border_color=ff9c19&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <br>
+  <img src="https://activity-graph.herokuapp.com/graph?username=chichx&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
 </div>
