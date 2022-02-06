@@ -1,9 +1,13 @@
 <div align="center">
 
-### Hey there, I'm [Gaston!](https://chicho.wtf) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+chicho....;&center=true&size=30">
+  </a>
+</h1>
   
 <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-4/418087525735858208.png" />
+  <img src="https://lanyard.cnrad.dev/api/418087525735858208" />
 </p>
 
 ### 👨‍💻Programming Languages
