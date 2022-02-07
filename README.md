@@ -25,7 +25,7 @@
   
 ### 📫Contact
   [![Email](https://img.shields.io/badge/Email-gastondalla@gmail.com-04619f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gastondalla@gmail.com)
-  ![Discord](https://img.shields.io/badge/Discord-Chicho%237585-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+  ![Discord](https://img.shields.io/badge/Discord-Chicho%231337-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 </br>  
   
 <br>
