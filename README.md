@@ -34,7 +34,7 @@
   
 ### 📫Contact
   [![Email](https://img.shields.io/badge/Email-gastondalla@gmail.com-04619f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gastondalla@gmail.com)
-  ![Discord](https://img.shields.io/badge/Discord-Chicho%235493-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+  ![Discord](https://img.shields.io/badge/Discord-Chicho%234281-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 </br>  
   
 <br>
@@ -49,6 +49,5 @@
   </div>
   <br><br><br><br><br><br><br><br><br>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=chichx&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 </div>
