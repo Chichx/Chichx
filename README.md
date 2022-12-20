@@ -40,7 +40,6 @@
 ### 📈Stats
 <details>
     <summary>⚡ GitHub and WakaTime Stats</summary>
-    <br/>
-
-<!--START_SECTION:waka-->
+  <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+    <br/>
