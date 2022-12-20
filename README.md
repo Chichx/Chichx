@@ -43,5 +43,35 @@
     <br/>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 75 Contributions in the Year 2022
+ > 
+> 📦 35.1 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 8 Public Repositories 
+ > 
+> 🔑 5 Private Repositories  
+ > 
+**I Mostly Code in Java** 
+
+```text
+Java                     6 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
+JavaScript               6 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
+CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.56% 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.56%
+
+```
+
+
+
+ Last Updated on 20/12/2022 20:45:03 UTC
 <!--END_SECTION:waka-->
 </details>
