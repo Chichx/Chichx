@@ -43,7 +43,7 @@
     <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-40%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -114,6 +114,6 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/12/2022 02:36:23 UTC
+ Last Updated on 29/12/2022 03:14:48 UTC
 <!--END_SECTION:waka-->
 </details>
