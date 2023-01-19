@@ -39,7 +39,7 @@
 
 ### 📈Stats
 <details>
-    <summary> ⚡WakaTime Stats</summary>
+    <summary> ⚡Detailed Stats</summary>
     <br/>
 
 <!--START_SECTION:waka-->
