@@ -43,7 +43,7 @@
     <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -88,16 +88,16 @@ Sunday       26 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     5 mins              █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 5 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Pulsar                   5 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  5 mins              █████████████████████████   100.0%
 
 ```
 
@@ -114,6 +114,6 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/01/2023 03:15:03 UTC
+ Last Updated on 23/01/2023 04:17:07 UTC
 <!--END_SECTION:waka-->
 </details>
