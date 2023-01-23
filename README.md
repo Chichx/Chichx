@@ -45,7 +45,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2010%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
@@ -114,6 +114,6 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/01/2023 21:13:03 UTC
+ Last Updated on 23/01/2023 22:13:35 UTC
 <!--END_SECTION:waka-->
 </details>
