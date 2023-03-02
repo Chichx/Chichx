@@ -86,20 +86,16 @@ Sunday                   26 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-JavaScript               1 hr 2 mins         ████████████████░░░░░░░░░   62.97 % 
-HTML                     30 mins             ████████░░░░░░░░░░░░░░░░░   30.50 % 
-CSS                      6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 39 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-build                    1 hr 26 mins        ██████████████████████░░░   87.77 % 
-asd                      11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 39 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -115,6 +111,6 @@ Batchfile                1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/03/2023 03:22:14 UTC
+ Last Updated on 02/03/2023 04:17:09 UTC
 <!--END_SECTION:waka-->
 </details>
