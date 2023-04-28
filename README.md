@@ -7,7 +7,7 @@
 </h1>
   
 <p align="center">
-  <img src="https://lanyard.cnrad.dev/api/418087525735858208" />
+  <img src="https://lanyard.cnrad.dev/api/852683595378196480" />
 </p>
 
 ### 👨‍💻Programming Languages
