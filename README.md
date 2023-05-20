@@ -22,7 +22,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-102%20hrs%203%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My GitHub Data** 
 
@@ -97,6 +97,6 @@ Batchfile                1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/05/2023 16:14:07 UTC
+ Last Updated on 20/05/2023 17:10:12 UTC
 <!--END_SECTION:waka-->
 </details>
