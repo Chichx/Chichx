@@ -1,3 +1,4 @@
+![Header](./header.png)
 <div align="center">
 
 <h1 align="center">
@@ -9,11 +10,10 @@
 <p align="center">
   <img src="https://lanyard.cnrad.dev/api/852683595378196480" />
 </p>
-  
+
 ### 📫Contact
   [![Email](https://img.shields.io/badge/Email-gastondalla@gmail.com-04619f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gastondalla@gmail.com)
 </br>  
-
 ### 📈Stats
 <details>
     <summary> ⚡Detailed Stats</summary>
@@ -97,3 +97,5 @@ Batchfile                1 repo              █░░░░░░░░░░�
  Last Updated on 07/06/2023 23:12:36 UTC
 <!--END_SECTION:waka-->
 </details>
+
+![Footer](./footer.png)
