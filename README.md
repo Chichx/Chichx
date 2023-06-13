@@ -20,7 +20,7 @@
     <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-138%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-138%20hrs%2057%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -28,13 +28,13 @@
 
 > 📦 37.5 kB Used in GitHub's Storage 
  > 
-> 🏆 8 Contributions in the Year 2023
+> 🏆 7 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 7 Public Repositories 
+> 📜 6 Public Repositories 
  > 
-> 🔑 7 Private Repositories 
+> 🔑 8 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -95,7 +95,7 @@ Batchfile                1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/06/2023 22:11:51 UTC
+ Last Updated on 13/06/2023 23:10:43 UTC
 <!--END_SECTION:waka-->
 </details>
 
