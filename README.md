@@ -11,8 +11,6 @@
   <img src="https://lanyard.cnrad.dev/api/852683595378196480" />
 </p>
 
-### 📫Contact
-  [![Email](https://img.shields.io/badge/Email-gastondalla@gmail.com-04619f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gastondalla@gmail.com)
 </br>  
 ### 📈Stats
 <details>
