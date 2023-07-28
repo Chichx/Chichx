@@ -11,7 +11,6 @@
   <img src="https://lanyard.cnrad.dev/api/852683595378196480" />
 </p>
 
-</br>  
 ### 📈Stats
 <details>
     <summary> ⚡Detailed Stats</summary>
