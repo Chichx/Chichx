@@ -17,7 +17,7 @@
     <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-341%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-342%20hrs%2011%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -70,7 +70,7 @@ Bash                     10 mins             ░░░░░░░░░░░�
 VS Code                  32 hrs 39 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          28 hrs 49 mins      ██████████████████████░░░   88.26 % 
+Ocean Backend            28 hrs 49 mins      ██████████████████████░░░   88.26 % 
 Coder                    3 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
 ocean-backend-v2         2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
@@ -91,7 +91,7 @@ Batchfile                1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/08/2023 22:10:57 UTC
+ Last Updated on 31/08/2023 23:11:40 UTC
 <!--END_SECTION:waka-->
 </details>
 
