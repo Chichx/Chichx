@@ -17,7 +17,7 @@
     <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-618%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-622%20hrs%2036%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
@@ -60,16 +60,22 @@ Sunday                   51 commits          ████░░░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               2 hrs 31 mins       ███████████████░░░░░░░░░░   60.86 % 
+HTML                     1 hr 20 mins        ████████░░░░░░░░░░░░░░░░░   32.12 % 
+JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+Git Config               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 hrs 9 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Coder                    3 hrs 26 mins       █████████████████████░░░░   82.52 % 
+Backend                  27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+Unknown Project          16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  4 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -85,7 +91,7 @@ Batchfile                1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/01/2024 03:13:52 UTC
+ Last Updated on 24/01/2024 04:16:14 UTC
 <!--END_SECTION:waka-->
 </details>
 
