@@ -17,7 +17,7 @@
     <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-744%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-746%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
@@ -60,16 +60,20 @@ Sunday                   51 commits          ███░░░░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     57 mins             ███████████░░░░░░░░░░░░░░   44.90 % 
+Python                   40 mins             ████████░░░░░░░░░░░░░░░░░   31.58 % 
+JavaScript               30 mins             ██████░░░░░░░░░░░░░░░░░░░   23.52 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 8 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          2 hrs 3 mins        ████████████████████████░   96.59 % 
+chicho                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+Backend                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -85,7 +89,7 @@ Batchfile                1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/06/2024 03:15:05 UTC
+ Last Updated on 14/06/2024 04:16:27 UTC
 <!--END_SECTION:waka-->
 </details>
 
