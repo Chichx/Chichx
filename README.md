@@ -23,9 +23,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 75.5 kB Used in GitHub's Storage 
- > 
-> 🏆 25 Contributions in the Year 2024
+> 📦 75.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -89,7 +87,7 @@ Batchfile                1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/06/2024 07:13:53 UTC
+ Last Updated on 15/06/2024 08:16:22 UTC
 <!--END_SECTION:waka-->
 </details>
 
