@@ -17,7 +17,7 @@
     <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-863%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-863%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -60,16 +60,17 @@ Sunday                   36 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               27 mins             ███████████████░░░░░░░░░░   60.88 % 
+Python                   17 mins             ██████████░░░░░░░░░░░░░░░   39.12 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   45 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          45 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  45 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -85,7 +86,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/10/2024 03:21:04 UTC
+ Last Updated on 24/10/2024 04:19:03 UTC
 <!--END_SECTION:waka-->
 </details>
 
