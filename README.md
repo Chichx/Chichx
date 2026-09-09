@@ -60,21 +60,16 @@ Sunday       27 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Argentina/Buenos_Aires
 
 💬 Programming Languages: 
-TypeScript               2 hrs 20 mins       ███████████████░░░░░░░░░░   62.7% 
-Go                       1 hr 9 mins         ███████░░░░░░░░░░░░░░░░░░   30.77% 
-Markdown                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.39% 
-SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.15%
+Markdown                 7 mins              █████████████████████████   100.0%
 
 🔥 Editors: 
-Claude Code              3 hrs 44 mins       █████████████████████████   100.0%
+Claude Code              7 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-beepers-frontend         2 hrs 20 mins       ███████████████░░░░░░░░░░   62.7% 
-beepers-backend          1 hr 9 mins         ███████░░░░░░░░░░░░░░░░░░   30.91% 
-chicho                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.39%
+chicho                   7 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      3 hrs 44 mins       █████████████████████████   100.0%
+Mac                      7 mins              █████████████████████████   100.0%
 
 ```
 
@@ -91,6 +86,6 @@ C#                       3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 08/09/2026
+ Last Updated on 09/09/2026
 <!--END_SECTION:waka-->
 </details>
